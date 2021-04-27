@@ -3,7 +3,7 @@ THIS PPROJECT WAS DEVELOPED AS MY UNIVERISTY COURSEWORK, FULL REPORT ON HOW USER
 Backend: PHP
 Frontend: HTML, CSS, bootstrap
 
-This is an initial prototype TIME BANKING WEBSITE where users will be from a certain community/twon and they would be doing work for each other but instead of money,
+This is an initial prototype TIME BANKING WEBSITE where users will be from a certain community/town and they would be doing work for each other but instead of money,
 they will be getting paid in time (hours) which they can use as a currency to get their own work done. This concept was formulated when the outbreak of covid was
 very intense and it was developed to be used incase there was need of a system which involves no traditional currency and also keeps a community self-sufficient and bound 
 to each other with minimal external contact.    
