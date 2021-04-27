@@ -15,5 +15,5 @@ Steps you have to follow in order to run the PHP website:
 3 - If you are using XAMPP then you also need to change the connection variables in 'server.php'. There will be a comment line there to help you.
 4 - Run your PHP server in browser and open the specified folder, ENJOY THE TEMPLATE. It can be amended for many purposes.  
 
-NOTE: I had named worker database table as ìfreelancerî to make things clear for myself in the beginning of development phase. 
-Itís just the word used for ìworkerî in my database.  
+NOTE: I had named worker database table as ‚Äúfreelancer‚Äù to make things clear for myself in the beginning of development phase. 
+It‚Äôs just the word used for ‚Äúworker‚Äù in my database.  
